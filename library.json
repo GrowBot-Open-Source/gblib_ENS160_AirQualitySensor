@@ -1,8 +1,8 @@
 {
-"name": "gb_SENSORNAME",
+"name": "gb_ENS160_AirQualitySensor",
 "frameworks": "Arduino",
 "keywords": "keywords",
-"description": "Use the sensor XXXXX in the GrowBot system.",
+"description": "Use the sensor ENS160 AirQualitySensor in the GrowBot system.",
 "authors":
 [
     {
